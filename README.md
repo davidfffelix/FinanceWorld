@@ -1,2 +1,2 @@
 # FinanceWorld
- Conversão das principais moedas do mundo.
+ Conversor das principais moedas do mundo.
