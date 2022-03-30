@@ -23,4 +23,9 @@ body {
 }
 
 
-
+.wrapper {
+    width: 370px;
+    padding: 30px;
+    border-radius: 7px;
+    background: #FFF;
+}
