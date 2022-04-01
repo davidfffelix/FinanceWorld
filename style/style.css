@@ -53,12 +53,13 @@ form :where(input, select, button) {
 
 form p {
     font-size: 18px;
+    margin-bottom: 5px;
 }
 
 
 form input {
     height: 50px;
-    font-size: 18px;
+    font-size: 17px;
     padding: 0 15px;
     border: 1px solid #999;
 }
