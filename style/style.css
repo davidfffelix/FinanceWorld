@@ -9,10 +9,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.flag {
-    width: 60px;
-}
-
 
 body {
     display: flex;
@@ -75,4 +71,12 @@ form .drop-list {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+
+.drop-list .select-box {
+    display: flex;
+    width: 115px;
+    height: 45px;
+    background: red;
 }
