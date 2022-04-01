@@ -16,8 +16,8 @@
 
 body {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     min-height: 100vh;
     background: #675AFE;
 }
@@ -68,4 +68,11 @@ form input {
 form input:focus {
     padding: 0 14px;
     border: 2px solid #675AFE;
+}
+
+
+form .drop-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
