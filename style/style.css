@@ -52,7 +52,7 @@ form :where(input, select, button) {
 
 
 form p {
-    
+    font-size: 18px;
 }
 
 
