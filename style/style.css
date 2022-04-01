@@ -41,3 +41,10 @@ body {
 .wrapper form {
     margin: 40px 0 20px 0;
 }
+
+
+form :where(input, select, button) {
+    width: 100%;
+    outline: none;
+    border: none;
+}
