@@ -71,18 +71,26 @@ form .drop-list {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 20px;
 }
 
 
 .drop-list .select-box {
     display: flex;
+    align-items: center;
+    justify-content: center;
     width: 115px;
     height: 45px;
-    background: red;
+    border-radius: 5px;
+    border: 1px solid #999;
 }
 
 
 .select-box select {
     width: auto;
-    
+}
+
+
+.select-box img {
+    max-width: 25px;
 }
